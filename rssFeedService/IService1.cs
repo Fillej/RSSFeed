@@ -18,6 +18,7 @@ namespace RSSFeedService
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
+        string heljp = "laskdjfasd";
 
         // TODO: Add your service operations here
     }

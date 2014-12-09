@@ -26,6 +26,7 @@ namespace RSSFeedService
             if (composite.BoolValue)
             {
                 composite.StringValue += "Suffix";
+                string test = "Kalle kan stoppa upp något";
             }
             return composite;
         }
